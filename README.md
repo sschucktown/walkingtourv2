@@ -1,3 +1,7 @@
+Walking Tour was built using Ionic.  Here is a list of all the tecnologies used through that platform:
+*Cordova (wraps typescript code in respective IOS and Android wrappers)
+* Ionic Native (allows you to use native functions in IOS and Android)
+* Angular (is a Javascript platform that reduces coding by use of data binding and dependency injections)
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template
